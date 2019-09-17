@@ -15,33 +15,18 @@ We've moved our entire web presence to GitHub to become even more transparent. H
 
 So here you are. When in doubt, as they say, read the (ahem) manual. :)
 
-Who we are
+Contact
 
-James Cham — Twitter // LinkedIn
+Todd Kovalsky — Twitter // LinkedIn
 
-Karin Klein — Twitter // LinkedIn // Blog
 
-Roy Bahat — Twitter // LinkedIn // Blog
+Where i work
 
-Harley Sugarman — Twitter // LinkedIn
-
-Minn Kim — Twitter // LinkedIn
-
-Angela Martin — LinkedIn
-
-Maria Sharp — LinkedIn
-
-Shivon Zilis — Twitter // LinkedIn
-
-Where we work
-
-San Francisco — 140 New Montgomery St., 22nd fl
-
-New York — 731 Lexington Ave.
+New York — New Jersey - Phildaelphia - Remote
 
 Questions?
 
-Our founders requested an anonymous way to ask us questions, so we're providing it for you, too. Right here.
+Email me at todd@tko.solutions and send a text to +1-917-601-4103.
 
 (If we've already answered the question in our manual, e.g., "how should I get in touch with you?" then we will respectfully ignore the question.)
 
